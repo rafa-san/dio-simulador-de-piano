@@ -102,7 +102,7 @@ header .column span {
 .piano-keys span {
   position: absolute;
   bottom: 20px;
-  font-size: 1.13rem;
+  font-size: 0.8rem;
   text-align: center;
   width: 100%;
 }
